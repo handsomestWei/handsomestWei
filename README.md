@@ -23,5 +23,13 @@ Here are some ideas to get you started:
   <img alt="" src="https://raw.githubusercontent.com/handsomestWei/handsomestWei/output/github-contribution-grid-snake.svg">
 </picture>
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=handsomestWei&show_icons=true&count_private=true&include_all_commits=true&show_fork=true&hide_contribs=true&theme=buefy&hide_border=true&v=1" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=handsomestWei&layout=compact&theme=buefy&hide_border=true&v=1" /></a> |
+| <a><img align="center" src="https://raw.githubusercontent.com/handsomestWei/handsomestWei/output/github-readme-stats.svg" /></a> | <a><img align="center" src="https://raw.githubusercontent.com/handsomestWei/handsomestWei/output/github-readme-top-langs.svg" /></a> |
 | ------------- | ------------- |
+
+<!--
+Fallback public instance: github-stats-extended (successor of github-readme-stats).
+Original github-readme-stats.vercel.app is paused; this README uses Action-generated SVGs on the output branch instead.
+
+| <a><img align="center" src="https://github-stats-extended.vercel.app/api?username=handsomestWei&show_icons=true&count_private=true&include_all_commits=true&show_fork=true&hide_contribs=true&theme=buefy&hide_border=true" /></a> | <a><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=handsomestWei&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+-->
